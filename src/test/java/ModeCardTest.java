@@ -16,7 +16,7 @@ import static com.codeborne.selenide.SetValueOptions.withText;
 public class ModeCardTest {
     @BeforeEach
     void setup() {
-        open("http://localhost:8080");
+        open("http://localhost:9999");
     }
 
     @Test
